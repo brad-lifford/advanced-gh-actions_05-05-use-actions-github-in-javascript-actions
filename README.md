@@ -71,4 +71,4 @@ The action can be triggered on pushes, pull requests, and workflow distpathes.
 1. Confirm that the comment and a label were added.
 
 "I am GROOT"
-
+"I AM Groot"
